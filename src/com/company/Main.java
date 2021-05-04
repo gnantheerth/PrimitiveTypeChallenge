@@ -10,6 +10,10 @@ public class Main {
         System.out.println(myLongValue);
         short shortTotal =(short) (1000+10*(myIntValue+myByteValue+myShortValue));
         System.out.println(shortTotal);
+	     short shortTotal =(short) (1000+10*(myIntValue+myByteValue+myShortValue));
+        System.out.println(shortTotal);
+	    
+	    
 
     }
 }
